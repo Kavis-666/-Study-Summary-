@@ -1,0 +1,3 @@
+1、订阅网址：https://bucd.me/#/dashboard
+2、vpn 软件下载网址：https://github.com/clash-verge-rev/clash-verge-rev/releases
+3、注意：linux22.04 x86架构没有办法下载订阅网址中的软件，所有要用2
